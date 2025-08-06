@@ -1,0 +1,1 @@
+ pytest -s -v testCases/test_001_Account_Registration.py  --browser firefox
